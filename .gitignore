@@ -1,0 +1,6 @@
+raw/
+__pycache__/
+*.pyc
+.env
+publicar_hf.py
+Dockerfile

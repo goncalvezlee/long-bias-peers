@@ -1,0 +1,309 @@
+ativo,setor
+ITUB4,Financeiro
+ITUB3,Financeiro
+BBDC4,Financeiro
+BBDC3,Financeiro
+BBAS3,Financeiro
+BPAC11,Financeiro
+SANB11,Financeiro
+SANB4,Financeiro
+SANB3,Financeiro
+BRSR6,Financeiro
+BPAN4,Financeiro
+BMGB4,Financeiro
+B3SA3,Financeiro
+CXSE3,Financeiro
+PSSA3,Financeiro
+IRBR3,Financeiro
+ITSA4,Financeiro
+ITSA3,Financeiro
+BBSE3,Financeiro
+WIZC3,Financeiro
+APER3,Financeiro
+PINE4,Financeiro
+ABC4,Financeiro
+BRGE11,Financeiro
+MERC3,Financeiro
+BNBR3,Financeiro
+BIDI11,Financeiro
+INTER3,Financeiro
+SMLS3,Financeiro
+PETR4,Petróleo e Gás
+PETR3,Petróleo e Gás
+PRIO3,Petróleo e Gás
+RECV3,Petróleo e Gás
+VBBR3,Petróleo e Gás
+RRRP3,Petróleo e Gás
+CSAN3,Petróleo e Gás
+UGPA3,Petróleo e Gás
+DMVF3,Saúde
+RBFF11,Petróleo e Gás
+VALE3,Materiais Básicos
+GGBR4,Materiais Básicos
+GGBR3,Materiais Básicos
+CSNA3,Materiais Básicos
+USIM5,Materiais Básicos
+USIM3,Materiais Básicos
+SUZB3,Materiais Básicos
+KLBN11,Materiais Básicos
+KLBN4,Materiais Básicos
+DXCO3,Materiais Básicos
+GOAU4,Materiais Básicos
+RANI3,Materiais Básicos
+UNIP6,Materiais Básicos
+CBAV3,Bens Industriais
+FESA4,Materiais Básicos
+BRAP4,Financeiro
+MOAR3,Materiais Básicos
+CMIN3,Materiais Básicos
+JHSF3,Consumo Cíclico
+ELET3,Utilidade Pública
+ELET6,Utilidade Pública
+ENGI11,Utilidade Pública
+EQTL3,Utilidade Pública
+TAEE11,Utilidade Pública
+TAEE4,Utilidade Pública
+CPFE3,Utilidade Pública
+CMIG4,Utilidade Pública
+CMIG3,Utilidade Pública
+CPLE6,Utilidade Pública
+AURE3,Utilidade Pública
+EGIE3,Utilidade Pública
+SBSP3,Utilidade Pública
+SAPR11,Utilidade Pública
+SAPR4,Utilidade Pública
+CSMG3,Utilidade Pública
+TRPL4,Utilidade Pública
+TRPL3,Utilidade Pública
+ENBR3,Utilidade Pública
+NEOE3,Utilidade Pública
+EMAE4,Utilidade Pública
+AESB3,Utilidade Pública
+ENEV3,Utilidade Pública
+GSBR3,Utilidade Pública
+LIQO3,Utilidade Pública
+INTB3,Telecomunicações
+LREN3,Consumo Cíclico
+MGLU3,Consumo Cíclico
+VIVA3,Consumo Cíclico
+SOMA3,Consumo Cíclico
+HGTX3,Consumo Cíclico
+ALPA4,Consumo Cíclico
+VULC3,Consumo Cíclico
+LCAM3,Consumo Cíclico
+MOVI3,Consumo Cíclico
+GUAR3,Consumo Cíclico
+COGN3,Consumo Cíclico
+SEDU3,Consumo Cíclico
+SEER3,Consumo Cíclico
+YDUQ3,Consumo Cíclico
+ANIM3,Consumo Cíclico
+IGTI11,Consumo Cíclico
+MULT3,Financeiro
+ALOS3,Financeiro
+BRPR3,Consumo Cíclico
+SBFG3,Consumo Cíclico
+VIVR3,Consumo Cíclico
+AZUL4,Consumo Cíclico
+GOLL4,Consumo Cíclico
+CVCB3,Consumo Cíclico
+NTCO3,Consumo Cíclico
+PETZ3,Consumo Cíclico
+RENT3,Consumo Cíclico
+MYPK3,Consumo Cíclico
+RDOR3,Saúde
+FLRY3,Saúde
+HAPV3,Saúde
+BLAU3,Saúde
+GNDI3,Saúde
+DASA3,Saúde
+PARD3,Saúde
+ODPV3,Saúde
+QUAL3,Saúde
+CSUD3,Bens Industriais
+MLAS3,TI
+ONCO3,Saúde
+HYPE3,Saúde
+RADL3,Saúde
+ABEV3,Consumo não Cíclico
+JBSS3,Consumo Não Cíclico
+MRFG3,Consumo Não Cíclico
+BEEF3,Consumo não Cíclico
+BRFS3,Consumo Não Cíclico
+MDIA3,Consumo não Cíclico
+ASAI3,Consumo não Cíclico
+GMAT3,Consumo não Cíclico
+PCAR3,Consumo não Cíclico
+SMFT3,Consumo Cíclico
+CAML3,Consumo não Cíclico
+SLCE3,Consumo não Cíclico
+TTEN3,Consumo não Cíclico
+WEGE3,Bens Industriais
+EMBR3,Bens Industriais
+RAIL3,Bens Industriais
+TGMA3,Bens Industriais
+POMO4,Bens Industriais
+POMO3,Bens Industriais
+TUPY3,Bens Industriais
+ROMI3,Bens Industriais
+FRAS3,Bens Industriais
+KEPL3,Bens Industriais
+RSID3,Bens Industriais
+MILS3,Bens Industriais
+LOG3,Bens Industriais
+CCRO3,Bens Industriais
+ECOR3,Bens Industriais
+TPVG3,Bens Industriais
+VIVT3,Telecomunicações
+TIMS3,Telecomunicações
+TIMS4,Comunicações
+OIBR3,Comunicações
+OIBR4,Comunicações
+TOTS3,TI
+LWSA3,TI
+POSI3,TI
+CASH3,TI
+TOTVS,TI
+CYRE3,Consumo Cíclico
+DIRR3,Consumo Cíclico
+CURY3,Consumo Cíclico
+EVEN3,Consumo Cíclico
+MRVE3,Consumo Cíclico
+GFSA3,Imobiliário
+TRIS3,Consumo Cíclico
+SEPR3,Imobiliário
+MDNE3,Consumo Cíclico
+PLPL3,Consumo Cíclico
+LAVV3,Consumo Cíclico
+CBQL3,Imobiliário
+HBOR3,Imobiliário
+TEND3,Consumo Cíclico
+PDGR3,Imobiliário
+BOVA11,BDRs
+SMAL11,BDRs
+IVVB11,BDRs
+HASH11,BDRs
+AXIA3,Utilidade Pública
+EMBJ3,Bens Industriais
+CPLE3,Utilidade Pública
+SAUD3,Saúde
+MOTV3,Bens Industriais
+MBRF3,Consumo não Cíclico
+ISAE4,Utilidade Pública
+CGAS3,Utilidade Pública
+PASS3,Utilidade Pública
+REDE3,Utilidade Pública
+CEEB3,Utilidade Pública
+NATU3,Consumo não Cíclico
+EQPA3,Utilidade Pública
+ALUP11,Utilidade Pública
+GGPS3,Bens Industriais
+ORVR3,Utilidade Pública
+RIAA3,Consumo Cíclico
+EKTR3,Utilidade Pública
+BRAV3,Petróleo e Gás
+CASN3,Utilidade Pública
+CEGR3,Utilidade Pública
+IGTI3,Financeiro
+ENMT4,Utilidade Pública
+BMEB4,Financeiro
+SMTO3,Consumo não Cíclico
+ABCB4,Financeiro
+CLSC4,Utilidade Pública
+WHRL4,Consumo Cíclico
+SHUL4,Bens Industriais
+HBSA3,Bens Industriais
+LEVE3,Consumo Cíclico
+CBEE3,Utilidade Pública
+SIMH3,Financeiro
+VAMO3,Bens Industriais
+BAZA3,Financeiro
+EZTC3,Consumo Cíclico
+GEPA4,Utilidade Pública
+BRKM5,Materiais Básicos
+GRND3,Consumo Cíclico
+BEES3,Financeiro
+AZZA3,Consumo Cíclico
+LOGN3,Bens Industriais
+AUAU3,Consumo não Cíclico
+COCE5,Utilidade Pública
+CEAB3,Consumo Cíclico
+PGMN3,Saúde
+DESK3,Telecomunicações
+OPCT3,Utilidade Pública
+LOGG3,Financeiro
+RAPT4,Bens Industriais
+BMOB3,TI
+VTRU3,Consumo Cíclico
+EUCA3,Materiais Básicos
+TFCO4,Consumo Cíclico
+AGRO3,Consumo não Cíclico
+FIQE3,Telecomunicações
+CEBR3,Utilidade Pública
+PNVL3,Saúde
+CSED3,Consumo Cíclico
+MATD3,Saúde
+TELB3,Telecomunicações
+JSLG3,Bens Industriais
+ZAMP3,Consumo Cíclico
+VLID3,Bens Industriais
+OFSA3,Saúde
+BRBI11,Financeiro
+BSLI3,Financeiro
+FRIO3,Bens Industriais
+ARML3,Bens Industriais
+OBTC3,Consumo Cíclico
+BRST3,Telecomunicações
+PRNR3,Bens Industriais
+SOJA3,Consumo não Cíclico
+ALPK3,Bens Industriais
+PFRM3,Saúde
+BGIP4,Financeiro
+DEXP3,Materiais Básicos
+BIOM3,Saúde
+LAND3,Consumo não Cíclico
+GPAR3,Utilidade Pública
+JALL3,Consumo não Cíclico
+TASA3,Bens Industriais
+SCAR3,Financeiro
+PEAB3,Financeiro
+PATI3,Materiais Básicos
+WLMM3,Bens Industriais
+CEED3,Utilidade Pública
+TECN3,Consumo Cíclico
+RPAD3,Financeiro
+MELK3,Consumo Cíclico
+CGRA4,Consumo Cíclico
+SYNE3,Financeiro
+MTSA4,Bens Industriais
+RAIZ4,Consumo não Cíclico
+ALLD3,Telecomunicações
+VITT3,Consumo não Cíclico
+AFLT3,Utilidade Pública
+AALR3,Saúde
+AZEV4,Bens Industriais
+SEQL3,TI
+AMOB3,Consumo Cíclico
+DOHL4,Consumo Cíclico
+TPIS3,Bens Industriais
+AMAR3,Consumo Cíclico
+CRPG5,Materiais Básicos
+CAMB3,Consumo Cíclico
+MTRE3,Consumo Cíclico
+MELI34,Consumo Cíclico
+NUBR33,Financeiro
+XPBR31,Financeiro
+INBR32,Financeiro
+PAGS34,Financeiro
+STNE,Financeiro
+ROXO34,Financeiro
+JBSS32,Consumo não Cíclico
+G2DI33,Consumo Cíclico
+BIED3,Consumo Cíclico
+SRNA3,Utilidade Pública
+VVEO3,Saúde
+STBP3,Bens Industriais
+PORT3,Bens Industriais
+BOVX11,ETFs
+AURA33,Materiais Básicos
+STOC34,BDRs
