@@ -14,6 +14,7 @@ if errorlevel 1 (
 echo [2/2] Enviando para o GitHub...
 git add -A
 git commit -m "Atualizacao de dados %date%" -q
+git pull --rebase -q origin main
 git push origin main
 if errorlevel 1 (
     echo [ERRO] Push falhou.

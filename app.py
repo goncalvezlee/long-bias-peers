@@ -39,8 +39,14 @@ h1, h2, h3 {{ letter-spacing:-0.01em; }}
 </style>""", unsafe_allow_html=True)
 
 
+def versao_dados():
+    # muda a cada coleta -> invalida o cache assim que um push traz dados novos
+    f = DATA / "atualizado_em.txt"
+    return f.read_text(encoding="utf-8").strip() if f.exists() else ""
+
+
 @st.cache_resource(ttl=6 * 3600, show_spinner="Carregando dados da CVM…")
-def carregar():
+def carregar(versao):
     b = Base()
     if MESMO_CORTE_AWR:
         ult = sorted(m[-1] for f, m in b.meses_abertos.items() if f != AWR and m)
@@ -54,16 +60,16 @@ def carregar():
     return b
 
 
-b = carregar()
+b = carregar(versao_dados())
 
 
 @st.cache_resource(ttl=6 * 3600, show_spinner="Projetando carteiras…")
-def carregar_projecao():
+def carregar_projecao(versao):
     bt = DATA / "projecao_backtest.parquet"
     return Projecao(b, pd.read_parquet(bt) if bt.exists() else None)
 
 
-pj = carregar_projecao()
+pj = carregar_projecao(versao_dados())
 FUNDOS = b.fundos
 PEERS = [f for f in FUNDOS if f != AWR]
 
